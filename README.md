@@ -6,7 +6,7 @@ Now I'm learning the Rust programming language, and I want to improve my impleme
 
 TO-DO list: 
 
-<Datastructures>
+Data structures :
 
 1. **Stack**
 2. **Queue**
@@ -44,7 +44,6 @@ TO-DO list:
 34. Persisten cartesian tree
 35. Red-Black tree
 36. Block-Cut tree
-<\Datastructures>
   
 Math algorithms:
 1. Fast Fourie Transform
