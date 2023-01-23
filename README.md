@@ -51,7 +51,7 @@ Now I'm learning the Rust programming language, and I want to improve my impleme
 <summary>Math algorithms:</summary> 
 
 - [ ] :x: Fast Fourie Transform
-- [ ] :x: Euclidean algorithm
+- [x] :white_check_mark: **Euclidean algorithm**
 - [ ] :x: Extended euclidean algorithm
 - [ ] :x: Sprague-Grundy
 - [ ] :x: Pascal's triangle
@@ -70,7 +70,7 @@ Now I'm learning the Rust programming language, and I want to improve my impleme
 - [ ] :x: Gray's code
 - [ ] :x: Eratosphenes sieve
 - [ ] :x: Chinese Reminder theorem 
-- [ ] :x: Binary Exponentiation 
+- [x] :white_check_mark: **Binary Exponentiation**
 - [ ] :x: Lagrange's interpolation polynomial
 - [ ] :x: Factorization
 - [ ] :x: Binary multiplication
@@ -79,7 +79,7 @@ Now I'm learning the Rust programming language, and I want to improve my impleme
 <details>
 <summary>Graph algorithms:</summary> 
 
-- [ ] :x: DFS
+- [x] :white_check_mark: **DFS**
 - [ ] :x: BFS
 - [ ] :x: Dijkstra algorithm
 - [ ] :x: Floyd-Warshall algorithm
