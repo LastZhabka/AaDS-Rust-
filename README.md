@@ -5,7 +5,9 @@ In the past I tried to implement all the algorithms I know in one project on Git
 Now I'm learning the Rust programming language, and I want to improve my implementation skills on Rust. So I decided to combine practice and implementation of my past idea. Every day I will spent some time to implement algorithms and data structures on Rust language.
 
 TO-DO list: 
+
 Data structures :
+
 **1. Stack
 **2. Queue
 3. Prefix sums
