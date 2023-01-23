@@ -8,11 +8,11 @@ TO-DO list:
 
 Data structures :
 
-**1. Stack
-**2. Queue
+1. Stack
+2. Queue
 3. Prefix sums
-**4. Segment tree static
-**5. Segment tree with point updates
+4. Segment tree static
+5. Segment tree with point updates
 6. Bitset (Simple)
 7. DSU
 8. SQRT decomposition
