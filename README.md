@@ -12,7 +12,7 @@ Now I'm learning the Rust programming language, and I want to improve my impleme
   
 - [x] :white_check_mark: **Stack**
 - [x] :white_check_mark: **Queue**
-- [x] :white_check_mark: Prefix sums
+- [x] :white_check_mark: **Prefix sums**
 - [x] :white_check_mark: **Segment tree static**
 - [x] :white_check_mark: **Segment tree with point updates**
 - [ ] :x: Bitset (Simple)
