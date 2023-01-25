@@ -80,7 +80,7 @@ Now I'm learning the Rust programming language, and I want to improve my impleme
 <summary>Graph algorithms:</summary> 
 
 - [x] :white_check_mark: **DFS**
-- [ ] :x: BFS
+- [x] :white_check_mark: **BFS**
 - [ ] :x: Dijkstra algorithm
 - [ ] :x: Floyd-Warshall algorithm
 - [ ] :x: Ford-Belman algorithm
